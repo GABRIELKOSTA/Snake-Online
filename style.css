@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+canvas {
+    background-color: #000;
+    border: 1px solid white;
+}
+
+h1, p {
+    margin: 20px;
+}
